@@ -13,6 +13,9 @@ int main() {
     else if(z=='*'){
         printf("%d",x*y);
     }
+    else if (z=='/'){
+        printf("%d",x/y);
+    }
    
     return 0;
 }
