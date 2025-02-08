@@ -13,8 +13,6 @@ int main() {
     else if(z=='*'){
         printf("%d",x*y);
     }
-    else{
-        printf("%d",x/y);
-    }
+   
     return 0;
 }
